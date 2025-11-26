@@ -1,0 +1,18 @@
+# Ignore everything that is part of the commercial build
+Modelfile
+install.bat
+install.sh
+build/
+dist/
+*.zip
+*.7z
+*.exe
+*.pkg
+*.dmg
+
+# Ignore OS noise
+.DS_Store
+
+# Ignore temporary files
+*.log
+*.tmp
