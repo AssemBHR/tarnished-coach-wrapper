@@ -1,12 +1,21 @@
-MIT License
+Business Source License 1.1 (BUSL-1.1)
 
-Copyright (c) 2025 Assem Sarhan
+Licensor: Assem Sarhan  
+Software: Tarnished Coach (Wrapper Demo)
+Licensed Work: The files in this repository excluding the commercial ModelFile, tuned prompt, datasets, and production code.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Use Grant:
+You may use, copy, modify, and redistribute the Licensed Work for non-commercial purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Commercial Use:
+Commercial use of the Licensed Work is prohibited without explicit written permission from the Licensor.
+
+Change Date:
+1 January 2099
+
+Change License:
+On the Change Date, the Licensed Work will be made available under the Open Source License: Apache 2.0.
+
+Disclaimer:
+THE LICENSED WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+THE LICENSOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
